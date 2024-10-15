@@ -1,3 +1,4 @@
 on branch master
 on branch branch1
 conflict on master branch
+creating conflict
