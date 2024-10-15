@@ -4,3 +4,4 @@ conflict on master branch
 creating conflict
 git local to global/remote repoitry
 to pull from global to local
+push to global
