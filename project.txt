@@ -3,3 +3,4 @@ on branch branch1
 conflict on master branch
 creating conflict
 git local to global/remote repoitry
+to pull from global to local
